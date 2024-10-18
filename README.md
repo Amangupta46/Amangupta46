@@ -26,7 +26,6 @@ My goal is to gain practical experience, contribute to innovative projects, and 
 
 - **Email:** [amanguptawork01@gmail.com](mailto:amanguptawork01@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/amandeep-gupta01](https://www.linkedin.com/in/amandeep-gupta01)
-- **GitHub:** 
 
 Feel free to reach out if you have any internship opportunities or if you’d like to discuss software development,
 AI, and tech trends. I’m excited to connect with professionals and explore new learning opportunities!
